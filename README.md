@@ -6,7 +6,7 @@ Software Developer
 
 I've been learning Machine learning and DevOps.
 
-* 🌍  I'm based in I'm based in Bangkok, Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nes224@hotmail.com](mailto:nes224@hotmail.com)
 * 🚀  I'm currently working on [Kao.Geek](http://github.com/kaogeek/spanboon)
 * 🧠  I'm learning Tensorflow, Scikit Learning, DevOps
