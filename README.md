@@ -26,6 +26,7 @@ I've been learning Machine learning and DevOps.
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/640px-TensorFlow_logo.svg.png" width="66" height="36" alt="Firebase" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="66" height="36" alt="Firebase" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" width="66" height="36" alt="Firebase" />
 </div>
 
 
