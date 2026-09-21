@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning Machine learning and DevOps.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nes224@hotmail.com](mailto:nes224@hotmail.com)
